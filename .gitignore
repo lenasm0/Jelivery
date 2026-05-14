@@ -1,0 +1,9 @@
+*.jl.cov
+*.jl.mem
+deps/
+build/
+dist/
+Manifest.toml
+*.log
+.DS_Store
+Thumbs.db
